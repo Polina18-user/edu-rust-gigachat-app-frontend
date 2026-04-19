@@ -60,3 +60,7 @@
 # - linear.api-key
 # - github.org
 # - github.repo
+
+sync.remote: "git+https://github.com/Polina18-user/edu-rust-gigachat-app-frontend.git"
+
+export.auto: false

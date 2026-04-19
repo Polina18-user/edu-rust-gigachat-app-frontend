@@ -1,4 +1,7 @@
 {
-  "database": "beads.db",
-  "jsonl_export": "issues.jsonl"
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "edu_rust_gigachat_app_frontend",
+  "project_id": "e513f633-34ff-411b-a884-0c6a71bcaaad"
 }
